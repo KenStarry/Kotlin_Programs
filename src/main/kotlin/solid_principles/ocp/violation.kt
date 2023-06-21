@@ -13,8 +13,10 @@ fun calculateArea(shape: Shape): Double {
 
     if (shape.type == "rectangle") {
         return shape.width * shape.height
+
     } else if (shape.type == "circle") {
         return Math.PI * shape.width * shape.width
+
     }
 
     return 0.0

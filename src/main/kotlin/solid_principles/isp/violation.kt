@@ -1,5 +1,6 @@
 package solid_principles.isp
 
+
 //  Single Responsibility Principle
 //  Here, If we do everything inside a common interface,
 //  we may have made unnecessary use in the places that implement our interface

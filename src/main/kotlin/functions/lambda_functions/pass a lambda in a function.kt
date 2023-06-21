@@ -13,6 +13,10 @@ fun pass_to_me(
 
 fun main() {
 
+    pass_to_me(give_me_values = { _, b ->
+
+    })
+
     pass_to_me { a, b ->
 
         println(a + b)

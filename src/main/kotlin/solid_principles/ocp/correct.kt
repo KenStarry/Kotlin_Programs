@@ -5,7 +5,6 @@ package solid_principles.ocp
 
 interface ShapeInterface {
     fun area(): Double
-    fun perimeter(): Double
 }
 
 class Rectangle(
@@ -14,10 +13,6 @@ class Rectangle(
 ) : ShapeInterface {
     override fun area(): Double {
         return width * height
-    }
-
-    override fun perimeter(): Double {
-        return 2 * (width + height)
     }
 }
 
@@ -28,27 +23,16 @@ class Circle(
     override fun area(): Double {
         return Math.PI * radius * radius
     }
-
-    override fun perimeter(): Double {
-        return 2 * (Math.PI * radius)
-    }
 }
 
 fun calculateArea(shape: ShapeInterface) {
     println("Area = ${shape.area()}")
 }
 
-fun calculatePerimeter(shape: ShapeInterface) {
-    println("Perimeter = ${shape.perimeter()}")
-}
-
 fun main() {
 
     val circle = Circle(7.0)
-
     calculateArea(circle)
-    calculatePerimeter(circle)
-
 }
 
 

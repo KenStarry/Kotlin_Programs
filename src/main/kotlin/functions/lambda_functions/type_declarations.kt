@@ -8,5 +8,11 @@ val lambda: String.(Int) -> String = {this + it}
 fun main() {
     val result = "Hello".lambda(50)
 
+    val myList = listOf("1", "2", "3", "4")
+
+    myList.forEach { item ->
+
+    }
+
     println(result)
 }
