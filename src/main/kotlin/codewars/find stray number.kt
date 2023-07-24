@@ -1,0 +1,6 @@
+package codewars
+
+fun main() {
+
+
+}

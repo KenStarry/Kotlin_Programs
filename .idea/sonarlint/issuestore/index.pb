@@ -75,3 +75,7 @@ g
 7src/main/kotlin/functions/lambda_functions/program_1.kt,3\e\3e369b79203b8704a1dc7426578f30fb54e38efc
 ^
 .src/main/kotlin/assignment/mesh subdivision.kt,c\c\cce623068bb30561aa1c57638448b4d946e65582
+w
+Gsrc/main/kotlin/functions/generic_functions/classes/CompanyNoGeneric.kt,8\0\804583978df1a26b698d52dd3d32df081f284c07
+u
+Esrc/main/kotlin/functions/generic_functions/classes/CompanyGeneric.kt,f\e\fe018ae886b03ce7a4f75814c701498bed63db09
