@@ -79,3 +79,5 @@ w
 Gsrc/main/kotlin/functions/generic_functions/classes/CompanyNoGeneric.kt,8\0\804583978df1a26b698d52dd3d32df081f284c07
 u
 Esrc/main/kotlin/functions/generic_functions/classes/CompanyGeneric.kt,f\e\fe018ae886b03ce7a4f75814c701498bed63db09
+l
+<src/main/kotlin/functions/infix_functions/Add_two_numbers.kt,5\3\534c32481d94a1e8df883a86afbce643c38fecfe
