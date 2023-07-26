@@ -81,33 +81,35 @@ u
 Esrc/main/kotlin/functions/generic_functions/classes/CompanyGeneric.kt,f\e\fe018ae886b03ce7a4f75814c701498bed63db09
 l
 <src/main/kotlin/functions/infix_functions/Add_two_numbers.kt,5\3\534c32481d94a1e8df883a86afbce643c38fecfe
-M
-src/main/kotlin/palindrome.kt,8\7\8739d6a989295e16424bd28c18700f6b52fe82a6
-]
--src/main/kotlin/codewars/find stray number.kt,3\c\3c20f872cc1b96a4a38fddd03d6d5ab9f5c47881
 z
 Jsrc/main/kotlin/functions/lambda_functions/returning values from lambda.kt,0\4\0412545e264ec835f963f45973ee07b6ba0f0338
 p
 @src/main/kotlin/functions/lambda_functions/anonymous function.kt,6\d\6da09903e09916f4e1efb34fc2dae77d688f7726
-d
-4src/main/kotlin/codewars/ascii value of character.kt,a\0\a030cbbdd11659ecc6fd1476184b2771c323e4a9
 y
 Isrc/main/kotlin/functions/lambda_functions/find the length of a string.kt,1\9\192bb6a16e693ff26a5c4008408b0e6274f88f6e
 y
 Isrc/main/kotlin/functions/lambda_functions/pass a lambda in a function.kt,f\2\f2926e4154ed97191a526acf4e16f566148ea02a
 p
 @src/main/kotlin/functions/infix_functions/Concatenate_strings.kt,1\7\17890d7a141b5d19f809e17f6cd2daf9bdc05a69
+M
+src/main/kotlin/palindrome.kt,8\7\8739d6a989295e16424bd28c18700f6b52fe82a6
+]
+-src/main/kotlin/codewars/find stray number.kt,3\c\3c20f872cc1b96a4a38fddd03d6d5ab9f5c47881
+d
+4src/main/kotlin/codewars/ascii value of character.kt,a\0\a030cbbdd11659ecc6fd1476184b2771c323e4a9
+]
+-src/main/kotlin/codewars/contain_all_roots.kt,d\8\d891843a75b2b8434bf18e9e724ec134d6fbce11
 o
 ?src/main/kotlin/functions/lambda_functions/type_declarations.kt,e\3\e37c77b2392079eeb20cfd5e7ce3020935d692d9
-^
-.src/main/kotlin/codewars/highest and lowest.kt,0\3\030a82b5aecc668f24d2e347d3a4c28146c08b88
 X
 (src/main/kotlin/codewars/small_enough.kt,2\e\2e534d0fd98c5012e6ac4bebc5cd481b3e97d69d
+^
+.src/main/kotlin/codewars/highest and lowest.kt,0\3\030a82b5aecc668f24d2e347d3a4c28146c08b88
+W
+'src/main/kotlin/codewars/remove_char.kt,6\6\66b251c4e3bf6f54ea868de228e1226432ffbd37
 W
 'src/main/kotlin/codewars/vowel count.kt,5\a\5a5125ea4ae11751830d3d389d3909c33f769a47
 T
 $src/main/kotlin/codewars/love_fun.kt,1\7\177d18fe2c9c1aa456cff370aeb92285290d64bd
-W
-'src/main/kotlin/codewars/remove_char.kt,6\6\66b251c4e3bf6f54ea868de228e1226432ffbd37
-]
--src/main/kotlin/codewars/contain_all_roots.kt,d\8\d891843a75b2b8434bf18e9e724ec134d6fbce11
+c
+3src/main/kotlin/codewars/ultimate_array_reverser.kt,6\c\6c68932b8287edbb62f02d3ecfb9951635d5c9a9
