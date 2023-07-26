@@ -12,6 +12,11 @@ fun geometricSequenceElements(a: Int, r: Int, n: Int): String {
     return strArr.joinToString()
 }
 
+fun geometricSequenceElementsAlt(a: Int, r: Int, n: Int): String =
+    generateSequence(a) { it * r }
+        .take(n)
+        .joinToString(", ")
+
 fun main() {
     print(geometricSequenceElements(2, 3, 5))
 }
